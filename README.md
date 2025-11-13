@@ -1,3 +1,2 @@
 # Smart-Workout-Companion-Research-Paper
-[📄 Research Paper (View/Download)](https://drive.google.com/file/d/1wenSG_bV45E1Wcq9pv6r9UfbWRFttn8q/view?usp=sharing)
-
+[Published_Paper.pdf](https://github.com/user-attachments/files/23529140/Published_Paper.pdf)
